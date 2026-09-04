@@ -1,0 +1,84 @@
+{
+  "name": "Plaqui jogo de vestir",
+  "short_name": "Plaqui jogo de vestir",
+  "id": "com.example.Plaqui",
+  "description": "Vista a plaqui com suas melhores roupas e escoolha umacor para ela.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "4f8adc0e5cdedef776a14a068b3fd9edce66948746a1a7852d855f06d1fe9223-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "936d4563f403c0bb737e72bd3c9de8c98d18b4bec734090eb0ca9677c8e38cd4-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "c69d6edcf31b178a7dc59e3d4932f1d3074a949550e6ba196bbc7fb51e1fa97f-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "caee27a582504c868d3e212cf472f4f5f0c88c93ab3ecf23802e9c541fdbe13d-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "c5b0b0899b2078ae687eaf8c41654aa1f729140beaf02747cab65bb02aec9f29-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "0684c9ea5b5640c70a15c6d3380dac4ad16ab12aca9f1eb281a02a946daa657c-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "161082e0ed63d9ed3840a89eeb6f18e493e879aa120aa344713a10540eb9bb29-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "0cac52e7aec3dc9270df18dfdaa55934cb748639238750160283c503f5533421-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "4d8645bc30c652383c6dfc8a418e3e2319715d78eeb1a2205f8c75be162cf4f4-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "ec42451cea55b70937009cdec22c179a2a1df71971b31c7b57ed40b62c8ea09f-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "ed8b59f660f3fdd74cdfaa7b1bc7a7c0f847b1fc688d5aa041e99533d071d052-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "71ffb98ae7470cb3ec734238a7e8ac550d7eb9980e434ae85c753da7b45b9ce3-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "b6daa0e59ab45050e7bfd4136857ffec849cb7c50f261436e86da58fdaf0ee35-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "fc6532bd83495b961859971a55e644e42d249dcc084d67fdce860e22f3dfa613-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "faca977b55e2560399d73bde74af6d1debd52f013ae9564f93b7dbe339f31f77-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "03f3e28adbcc9f80ca25ea1107eba01c04207b92e0de5a1686d36707f32888b0-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "21956ba87647b58295273f595b73f27726fced394b6ea05a35aa512bafb5df71-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "a89b232002d4da36e477ce8f7cf143eb64291ad97b77102809514154f552b2f8-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "e5803a11778dcf5f1848acba3695a4ce60759b4deb8c3762cdc2d257f7cddd8b-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "9ddc25a31acb37b8b04297f158981171e67e2e31434dd4f84ce04b00d3cf3c37-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "9c63e8d7bcfffda8c75f01f946387dd2d32b4d6b60de441dc2ec320bde639fc7-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "f3fc2b10f8a316228cbbaf4552845b90003417f9228c9a052b7d823710635b5a-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "935b4ac458d15530794c5b2b79e9be02d0eeb4985eaa76837ced566d258db417-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "af4b853acdb072051776c8eed1eb2ba8ba1e39b375cd68f6c88d28c25517feb1-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
